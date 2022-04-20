@@ -23,7 +23,7 @@ ________________________________________________________________________________
   with the data of the following form:
   
 <p align="center">
-    
+  <br />
   <img src=https://user-images.githubusercontent.com/74014874/164339152-916ccafc-9eb3-4833-915e-575bd7a1b9fc.png
    >
 </p>
