@@ -14,6 +14,8 @@ ________________________________________________________________________________
    >
 </p>
 
+__________________________________________________________________________________________________________________
+
   API allows you to add a new order to the database by responding to the **HTTP POST request to /api/warehouses** with the data of the following form:
   
 <p align="center">
@@ -22,6 +24,8 @@ ________________________________________________________________________________
 </p>
 
   All fields are required and the amount must be greater than 0
+  
+__________________________________________________________________________________________________________________
   
   API meets the following requirements:
   1. Checks if the product and warehouse with the given id's exist.
@@ -33,6 +37,5 @@ ________________________________________________________________________________
   **API is connected to my database by default and to set up yours you need to change ConnectionString in the file appsettings.json**
 
 __________________________________________________________________________________________________________________
-
 
 
