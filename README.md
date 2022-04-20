@@ -18,12 +18,12 @@ ________________________________________________________________________________
 
   API allows you to add a new order to the database by responding to the 
 <p align="center">
-  <**HTTP POST request to /api/warehouses**
+  <b>HTTP POST request to /api/warehouses</b>
    >
 </p>
   with the data of the following form:
   
-<p align="center">
+<p align="center", >
   <img src=https://user-images.githubusercontent.com/74014874/164339152-916ccafc-9eb3-4833-915e-575bd7a1b9fc.png
    >
 </p>
@@ -32,7 +32,7 @@ ________________________________________________________________________________
   
 __________________________________________________________________________________________________________________
   
-  ###### API meets the following requirements:
+  ## API meets the following requirements:
   1. Checks if the product and warehouse with the given id's exist.
   2. Checks if there is an order product purchase.
   3. Checks if the order has not been fulfilled.
