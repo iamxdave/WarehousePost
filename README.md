@@ -19,7 +19,6 @@ ________________________________________________________________________________
   API allows you to add a new order to the database by responding to the 
 <p align="center">
   <b>HTTP POST request to /api/warehouses</b>
-   >
 </p>
   with the data of the following form:
   
