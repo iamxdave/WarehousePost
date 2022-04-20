@@ -28,7 +28,7 @@ ________________________________________________________________________________
    >
 </p>
 
-  **NOTE:**  All fields are required and the amount must be greater than 0
+  **All fields are required and the amount must be greater than 0.**
   
 __________________________________________________________________________________________________________________
   
