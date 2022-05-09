@@ -1,8 +1,7 @@
 # WarehousePost
 Warehouse database management through REST API.
 
-__________________________________________________________________________________________________________________
-
+<hr>
 
 # How it works
 
@@ -14,7 +13,7 @@ ________________________________________________________________________________
    >
 </p>
 
-__________________________________________________________________________________________________________________
+<hr>
 
   API allows you to add a new order to the database by responding to the 
 <p align="center">
@@ -30,7 +29,7 @@ ________________________________________________________________________________
 
   **All fields are required and the amount must be greater than 0.**
   
-__________________________________________________________________________________________________________________
+<hr>
   
   ## API meets the following requirements:
   1. Checks if the product and warehouse with the given id's exist.
@@ -41,6 +40,6 @@ ________________________________________________________________________________
 
   **API is connected to my database by default and to set up yours you need to change ConnectionString in the file appsettings.json**
 
-__________________________________________________________________________________________________________________
+<hr>
 
 
