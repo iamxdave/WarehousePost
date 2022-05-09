@@ -1,5 +1,5 @@
 # WarehousePost
-Warehouse database management through REST API.
+Warehouse database management through <b>REST API</b>.
 
 <hr>
 
