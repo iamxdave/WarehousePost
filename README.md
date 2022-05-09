@@ -3,7 +3,7 @@ Warehouse database management through <b>REST API</b>.
 
 <hr>
 
-# How it works
+## How does it work
 
   Application is created for a company dealing with warehouse management and products that are in it.
   The database I use is presented below.
