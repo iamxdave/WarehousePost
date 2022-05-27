@@ -1,5 +1,5 @@
 # WarehousePost
-Warehouse database management through <b>REST API</b>.
+Warehouse database management through <b>REST API</b> by <b>SqlConnection</b> and <b>SqlCommand</b>.
 
 <hr>
 
