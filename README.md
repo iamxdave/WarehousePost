@@ -1,6 +1,6 @@
 # WarehousePost
 Warehouse database management through <b>REST API</b> by <b>SqlConnection</b> and <b>SqlCommand</b>.<br>
-<hr>
+<br>
 <b>The application meets the assumptions of SOLID and DI</b>
 <hr>
 
